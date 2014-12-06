@@ -9,4 +9,4 @@ markdown: kramdown
 
 data_source: api
 
-baseurl: http://code.esq.io/jekyll-data-test
+baseurl: /jekyll-data-test

@@ -7,14 +7,16 @@ This is created using [jekyll datafiles](http://jekyllrb.com/docs/datafiles/):
 
 {{site.data.foo}}
 
-The data is also available directly [for download](/api/foo.yml).
+The data is also available directly [for download]({{site.baseurl}}/api/foo.yml).
 
 ---
 
 How neat is this?
 
 {% for justice in site.data.justices.justices %}
+
 	{{justice}}
+
 {% endfor %}
 
-[Download](/api/justices.json)
+[Download]({{site.baseurl}}/api/justices.json)
