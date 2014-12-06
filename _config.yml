@@ -7,6 +7,6 @@ url: http://code.esq.io/jekyll-data-test
 
 markdown: kramdown
 
-data_source: api
+data_source: data
 
 baseurl: /jekyll-data-test
