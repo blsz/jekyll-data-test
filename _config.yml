@@ -3,8 +3,10 @@ repo: "https://github.com/vzvenyach/jekyll-data-test"
 
 name: "Jekyll-Data-Test"
 description: "A test of `data_source`"
-url: https://code.esq.io/jekyll-data-test
+url: http://code.esq.io/jekyll-data-test
 
 markdown: kramdown
 
 data_source: api
+
+baseurl: http://code.esq.io/jekyll-data-test
